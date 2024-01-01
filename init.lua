@@ -1,0 +1,2 @@
+require("xitConfig")
+print("hello")
